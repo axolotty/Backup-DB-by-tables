@@ -9,3 +9,6 @@ The sh file will dump all tables in the database. It will backup in a temp folde
 \
 \
 For the var $TMPFOLDER and $BACKUPDIR, indicate the path without the last / (e.g. TMPFOLDER=/tmp/toto)
+\
+\
+***Don't forget to make the script executable by : chmod +x dumpdb.sh***
