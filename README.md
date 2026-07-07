@@ -1,4 +1,4 @@
-# 💾 Backup-DB-by-tables — Sauvegarde MySQL table par table
+# 💾 Backup-DB-by-tables - Sauvegarde MySQL table par table
 
 ![Bash](https://img.shields.io/badge/Bash-5%2B-informational?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?style=for-the-badge)
